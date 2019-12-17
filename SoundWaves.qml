@@ -23,7 +23,7 @@ Row {
 
             color: "#858585"
             height: modelData.height
-            width: 8
+            width: 12
         }
     }
 }

@@ -24,7 +24,7 @@ void WaveData::setHeight(int height)
 SoundWavesViewModel::SoundWavesViewModel(QObject* parent) :
     QObject(parent),
     m_timerUpdate(66),
-    m_wavesCount(17),
+    m_wavesCount(22),
     m_upperBound(80),
     m_lowerBound(10),
     m_amplitudeModifier(1)

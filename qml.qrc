@@ -2,5 +2,7 @@
     <qresource prefix="/">
         <file>main.qml</file>
         <file>SoundWaves.qml</file>
+        <file>xav.jpg</file>
+        <file>xaviccc.jpg</file>
     </qresource>
 </RCC>

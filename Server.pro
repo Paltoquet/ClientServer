@@ -34,3 +34,5 @@ else: unix:!android: target.path = /opt/$${TARGET}/bin
 HEADERS += \
     soundwavesviewmodel.h \
     httpserver.h
+
+DISTFILES +=
